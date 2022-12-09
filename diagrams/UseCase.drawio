@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T21:02:30.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.1" etag="zevhAO-OSkFSZkj4RCfg" type="github"><diagram id="sywYKePw0CS8S6GZw2C0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T10:46:07.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.1" etag="Mak01itJk2t4irpw8NYE" type="github">
+  <diagram id="KW3WOMyOpie78aPgWBkR" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C2JzApIpA7sHAra7oiWG-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="200" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C2JzApIpA7sHAra7oiWG-6">
+          <mxGeometry width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-3" value="Binusmaya Mobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C2JzApIpA7sHAra7oiWG-6">
+          <mxGeometry x="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="200" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C2JzApIpA7sHAra7oiWG-7">
+          <mxGeometry width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-5" value="LMS Backoffice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C2JzApIpA7sHAra7oiWG-7">
+          <mxGeometry x="71.5" width="117" height="31.30434782608696" as="geometry" />
+        </mxCell>
+        <mxCell id="C2JzApIpA7sHAra7oiWG-8" value="Academic Operation" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
