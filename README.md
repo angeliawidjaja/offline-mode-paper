@@ -6,3 +6,6 @@ https://binusianorg-my.sharepoint.com/personal/angelia_am_binus_edu/_layouts/15/
 ## Linked Diagrams
 Menggunakan https://app.diagrams.net/ yang integrated dengan Github
 https://www.diagrams.net/blog/single-repository-diagrams
+
+## Link FRS
+https://binusianorg-my.sharepoint.com/personal/fernando_binus_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=EXVOwRR9R2oUgTmekp77OLVRxhNn6NIGHoAizQ7m168%3D&docid=2_0e8f7c1481f904136986d75eeae251b90&rev=1&e=fwuTkO
