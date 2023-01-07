@@ -1,0 +1,13 @@
+## User Requirement
+22 Juli 2022: Verifikasi BM7 Offline With User
+28 Juli 2022: Showcase Metadata Calculation, Prototype, Timeline
+
+## Showcase Phase 1 & 2
+08 September 2022
+
+## Showcase Phase 3 & 4
+08 November 2022
+
+## UAT
+17-21 November 2022: Accepted by Pak Herru
+09 Desember 2022: App Released & Accepted by Pak Wihendro
