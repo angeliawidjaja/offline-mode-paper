@@ -12,3 +12,6 @@ https://www.diagrams.net/blog/single-repository-diagrams
 
 ## Link FRS
 https://binusianorg-my.sharepoint.com/personal/fernando_binus_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=EXVOwRR9R2oUgTmekp77OLVRxhNn6NIGHoAizQ7m168%3D&docid=2_0e8f7c1481f904136986d75eeae251b90&rev=1&e=fwuTkO
+
+## Link Mockup UI Mobile
+https://www.figma.com/file/JEuYtnrUl7BuXpblXLvW2D/BINUSMAYA-Mobile-Offline-Mode-Prototype?node-id=6%3A10
