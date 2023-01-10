@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T10:24:36.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zTnrlX_rrjELCASHAa4h" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T11:03:03.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ihe5Xgm8UQ06FLE51GRH" version="20.8.1" type="github">
   <diagram id="KW3WOMyOpie78aPgWBkR" name="Page-1">
     <mxGraphModel dx="1400" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
             <mxPoint x="160.76923076922753" y="-305.0960869565214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bomjBY0PlpRP2bcYB_qp-170" value="Download r&lt;i&gt;esources&amp;nbsp; data from local device&amp;nbsp;&lt;/i&gt;when&amp;nbsp;&lt;i&gt;online&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452" y="-260.86" width="186" height="62" as="geometry" />
+        <mxCell id="bomjBY0PlpRP2bcYB_qp-170" value="Delete r&lt;span&gt;esources data from local device&amp;nbsp;&lt;/span&gt;when&amp;nbsp;&lt;span&gt;online&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="446" y="-260.86" width="198" height="62" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-171" value="Extends" style="endArrow=open;endSize=8;endFill=0;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="bomjBY0PlpRP2bcYB_qp-166" target="bomjBY0PlpRP2bcYB_qp-161">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -95,7 +95,7 @@
           <mxGeometry x="420" y="-684.5699999999999" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-176" value="Download Excel File for Offline Monitoring Log Report" style="ellipse;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="509.49538461538464" y="-604.4430434782607" width="175" height="62" as="geometry" />
+          <mxGeometry x="490" y="-604.44" width="194.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-177" value="&lt;i&gt;Academic Operation&lt;/i&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="-744.5699999999999" width="30" height="60" as="geometry" />
