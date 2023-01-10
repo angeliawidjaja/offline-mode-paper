@@ -10,6 +10,7 @@ Berikut 4 jenis data yang dilakukan proses sinkronisasi untuk disimpan secara of
 4. Forum
 
 Progress Pembuatan Diagram untuk "Sinkronisasi Data":  
+
 [x] Use Case Diagram
 [x] Use Case Description
 [x] Activity Diagram
