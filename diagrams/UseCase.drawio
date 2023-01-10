@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T11:05:15.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="heWaYknSaOhL2P059iNt" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T11:06:43.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xqH8Cfj1hR9AJqQuO6He" version="20.8.1" type="github">
   <diagram id="KW3WOMyOpie78aPgWBkR" name="Page-1">
-    <mxGraphModel dx="1400" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry x="199.23" y="-735.4300000000001" width="149.23" height="55.65" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-158" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;View&amp;nbsp;Class Session data&amp;nbsp;when&amp;nbsp;offline&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="-666.73" width="149.23" height="53.91" as="geometry" />
+          <mxGeometry x="199.23" y="-596.35" width="149.23" height="53.91" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-159" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;View&amp;nbsp;Forum data&amp;nbsp;when&amp;nbsp;offline&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200.96" y="-599.78" width="149.23" height="45.24" as="geometry" />
+          <mxGeometry x="200.96" y="-662.4" width="149.23" height="45.24" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-160" value="&lt;i&gt;Download t&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;hread into&amp;nbsp;&lt;/span&gt;local device when&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;online&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194.23" y="-430.86" width="159.23" height="60" as="geometry" />
