@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T11:03:03.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ihe5Xgm8UQ06FLE51GRH" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T11:05:02.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yBwpkggYIvitsYPSTBan" version="20.8.1" type="github">
   <diagram id="KW3WOMyOpie78aPgWBkR" name="Page-1">
     <mxGraphModel dx="1400" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="C2JzApIpA7sHAra7oiWG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-960" width="550" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="C2JzApIpA7sHAra7oiWG-3" value="&lt;i&gt;Offline Mode &lt;/i&gt;BINUSMAYA 7 &lt;i&gt;Mobile System&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="345.2" y="-960" width="159.6" height="51.09" as="geometry" />
+        <mxCell id="C2JzApIpA7sHAra7oiWG-3" value="&lt;i&gt;Offline Mode &lt;/i&gt;BINUSMAYA 7 &lt;i&gt;System&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-950" width="159.6" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="bomjBY0PlpRP2bcYB_qp-153" value="&lt;i&gt;User&lt;/i&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="-610.0000000000001" width="30" height="60" as="geometry" />
