@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T02:12:11.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QIvL3VmNFHtp4wcXsKMQ" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T05:18:06.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RKaN9ju8elONVctL2Nch" version="20.8.3" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1c1d494c118603dd-1" value="&lt;i&gt;Activity Diagram&lt;/i&gt;&amp;nbsp;&lt;i&gt;Change User Role when Offline&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="40" width="710" height="1040" as="geometry" />
+          <mxGeometry x="465" y="60" width="810" height="920" as="geometry" />
         </mxCell>
         <mxCell id="9redM43dmEc5Fs1zs8RA-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1c1d494c118603dd-1" source="60571a20871a0731-8" target="9redM43dmEc5Fs1zs8RA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-2" value="&lt;i&gt;User&lt;/i&gt;" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
-          <mxGeometry y="20" width="320" height="1020" as="geometry">
+          <mxGeometry y="20" width="320" height="900" as="geometry">
             <mxRectangle y="20" width="40" height="970" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -26,108 +26,120 @@
             <mxPoint x="160" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-2" value="Mengklik menu &lt;i&gt;Manage Offline Configuration&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="60" y="310" width="187.5" height="60" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-16" value="Membuka menu &lt;i&gt;modal&lt;/i&gt;&amp;nbsp;&lt;i&gt;role&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="100" y="635" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-7" value="Mengklik &lt;i&gt;checkbox &lt;/i&gt;sesuai dengan konfigurasi yang dilakukan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="63.75" y="440" width="180" height="60" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-20" value="Mengubah &lt;i&gt;role &lt;/i&gt;yang ingin diaktifkan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="90" y="750" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-8" value="Mengklik tombol &lt;i&gt;Submit &lt;/i&gt;setelah selesai melakukan konfigurasi" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="60" y="540" width="187.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-2" source="9redM43dmEc5Fs1zs8RA-7" target="9redM43dmEc5Fs1zs8RA-8" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="hw4aEWjpAXFNO5XK_DsB-13" target="hw4aEWjpAXFNO5XK_DsB-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-8" value="Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="53.75" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="hw4aEWjpAXFNO5XK_DsB-16" target="hw4aEWjpAXFNO5XK_DsB-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-9" value="Ok" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="193.75" y="680" width="40" height="30" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1c1d494c118603dd-1" source="hw4aEWjpAXFNO5XK_DsB-18" target="hw4aEWjpAXFNO5XK_DsB-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-5" value="Mengklik tombol" style="rhombus;whiteSpace=wrap;html=1;" parent="1c1d494c118603dd-2" vertex="1">
-          <mxGeometry x="113.75" y="670" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-2" source="PpYWxhjhXhYmPH21UP2K-5" target="9redM43dmEc5Fs1zs8RA-7" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="hw4aEWjpAXFNO5XK_DsB-20" target="hw4aEWjpAXFNO5XK_DsB-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="&lt;i&gt;System&lt;/i&gt;" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
-          <mxGeometry x="320" y="20" width="390" height="1020" as="geometry" />
+          <mxGeometry x="320" y="20" width="490" height="900" as="geometry" />
         </mxCell>
         <mxCell id="60571a20871a0731-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="175" y="960" width="40" height="40" as="geometry" />
+          <mxGeometry x="200" y="850" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9redM43dmEc5Fs1zs8RA-4" value="Apakah &lt;i&gt;active role user&lt;/i&gt;&amp;nbsp;memiliki hak mengakses fitur &lt;i&gt;offline mode?&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="110" y="90" width="170" height="90" as="geometry" />
+          <mxGeometry x="150" y="90" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-6" value="Menampilkan Page &lt;i&gt;Manage Offline Configuration&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="56.24999999999999" y="370" width="186.25" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1c1d494c118603dd-4" source="9redM43dmEc5Fs1zs8RA-4" target="9redM43dmEc5Fs1zs8RA-35" edge="1">
+        <mxCell id="9redM43dmEc5Fs1zs8RA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1c1d494c118603dd-4" source="9redM43dmEc5Fs1zs8RA-4" target="hw4aEWjpAXFNO5XK_DsB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="250" as="sourcePoint" />
-            <mxPoint x="170" y="250" as="targetPoint" />
+            <mxPoint x="149.3699999999999" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9redM43dmEc5Fs1zs8RA-17" value="Ya" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="9redM43dmEc5Fs1zs8RA-16" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-4" source="9redM43dmEc5Fs1zs8RA-4" target="60571a20871a0731-5" edge="1">
+        <mxCell id="9redM43dmEc5Fs1zs8RA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-4" source="9redM43dmEc5Fs1zs8RA-4" target="hw4aEWjpAXFNO5XK_DsB-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="190" as="sourcePoint" />
-            <mxPoint x="288" y="700" as="targetPoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="135" />
-              <mxPoint x="360" y="980" />
+              <mxPoint x="355" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9redM43dmEc5Fs1zs8RA-19" value="Tidak" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="9redM43dmEc5Fs1zs8RA-18" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-35" value="Memunculkan &lt;i&gt;drop-down menu Offline Mode Management &lt;/i&gt;yang terdiri dari &lt;i&gt;Manage Offline Configuration dan Manage Thread and Resources&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="33.120000000000005" y="210" width="232.5" height="100" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-1" value="Apakah ada data sinkronisasi yang tersimpan di lokal perangkat?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="35" y="220" width="155" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-9" value="Menampilkan &lt;i&gt;pop-up confirmation page&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="58.75" y="550" width="181.25" height="40" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-2" target="hw4aEWjpAXFNO5XK_DsB-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-37" value="Sistem menyimpan konfigurasi yang sudah ditentukan oleh User" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="46.25000000000001" y="680" width="206.25" height="60" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="330" y="250" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-4" source="9redM43dmEc5Fs1zs8RA-37" target="PpYWxhjhXhYmPH21UP2K-11" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-1" target="hw4aEWjpAXFNO5XK_DsB-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="280" as="sourcePoint" />
+            <mxPoint x="245" y="400" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="136" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-4" source="PpYWxhjhXhYmPH21UP2K-11" target="PpYWxhjhXhYmPH21UP2K-12" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-6" value="Tidak" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="hw4aEWjpAXFNO5XK_DsB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-11" value="Sistem melakukan refresh terhadap halaman Manage Offline Configuration" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="46.25000000000001" y="770" width="206.25" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-4" source="PpYWxhjhXhYmPH21UP2K-12" target="60571a20871a0731-5" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-7" target="hw4aEWjpAXFNO5XK_DsB-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-12" value="Sistem menampilkan konfigurasi sesuai dengan yang sudah ditentukan oleh User sebagai default configuration" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="15.939999999999998" y="870" width="266.88" height="60" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-7" value="Menampilkan &lt;i&gt;floating header &lt;/i&gt;berwarna abu-abu di bagian atas halaman aplikasi dengan isi informasi &quot;&lt;i&gt;You are currently accessing BINUSMAYA LMS Offline Mode&lt;/i&gt;&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="12.5" y="380" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-1" source="9redM43dmEc5Fs1zs8RA-35" target="PpYWxhjhXhYmPH21UP2K-2" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-8" target="hw4aEWjpAXFNO5XK_DsB-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="515" />
+              <mxPoint x="420" y="515" />
+              <mxPoint x="420" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-8" value="Menampilkan &lt;i&gt;floating header &lt;/i&gt;berwarna abu-abu di bagian atas halaman aplikasi dengan isi informasi &quot;&lt;i&gt;You are currently accessing BINUSMAYA LMS Offline Mode&lt;/i&gt;&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="255" y="380" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-1" target="hw4aEWjpAXFNO5XK_DsB-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="190" as="sourcePoint" />
+            <mxPoint x="122.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-11" value="Ya" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="hw4aEWjpAXFNO5XK_DsB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-1" source="PpYWxhjhXhYmPH21UP2K-2" target="9redM43dmEc5Fs1zs8RA-6" edge="1">
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="300" y="550" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-18" value="Menampilkan data &lt;i&gt;list role&lt;/i&gt;&amp;nbsp;milik &lt;i&gt;user&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="150" y="630" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-22" target="60571a20871a0731-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-1" source="9redM43dmEc5Fs1zs8RA-6" target="9redM43dmEc5Fs1zs8RA-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-22" target="9redM43dmEc5Fs1zs8RA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="775" />
+              <mxPoint x="470" y="70" />
+              <mxPoint x="235" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-1" source="9redM43dmEc5Fs1zs8RA-8" target="9redM43dmEc5Fs1zs8RA-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9redM43dmEc5Fs1zs8RA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-1" source="9redM43dmEc5Fs1zs8RA-9" target="PpYWxhjhXhYmPH21UP2K-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PpYWxhjhXhYmPH21UP2K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1c1d494c118603dd-1" source="PpYWxhjhXhYmPH21UP2K-5" target="9redM43dmEc5Fs1zs8RA-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hw4aEWjpAXFNO5XK_DsB-22" value="Menetapkan data &lt;i&gt;active role&lt;/i&gt;&amp;nbsp;saat ini untuk disimpan ke &lt;i&gt;local storage&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="130" y="745" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
