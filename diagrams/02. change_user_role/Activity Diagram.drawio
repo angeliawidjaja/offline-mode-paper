@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T05:19:04.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TNs3_M76xx_GkiuFaKVL" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T05:29:36.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BMKCk81zPwHh5V721XPI" version="20.8.3" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2333" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1c1d494c118603dd-1" value="&lt;i&gt;Activity Diagram&lt;/i&gt;&amp;nbsp;&lt;i&gt;Change User Role when Offline&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="465" y="60" width="810" height="920" as="geometry" />
+          <mxGeometry x="20" y="90" width="810" height="920" as="geometry" />
         </mxCell>
         <mxCell id="9redM43dmEc5Fs1zs8RA-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1c1d494c118603dd-1" source="60571a20871a0731-8" target="9redM43dmEc5Fs1zs8RA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
           <mxGeometry x="320" y="20" width="490" height="900" as="geometry" />
         </mxCell>
         <mxCell id="60571a20871a0731-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="200" y="850" width="40" height="40" as="geometry" />
+          <mxGeometry x="305" y="840" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9redM43dmEc5Fs1zs8RA-4" value="Apakah &lt;i&gt;active role user&lt;/i&gt;&amp;nbsp;memiliki hak mengakses fitur &lt;i&gt;offline mode?&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="150" y="90" width="170" height="90" as="geometry" />
@@ -120,14 +120,14 @@
         <mxCell id="hw4aEWjpAXFNO5XK_DsB-11" value="Ya" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="hw4aEWjpAXFNO5XK_DsB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rwd5jLVt5XGYScektKXe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-13" target="60571a20871a0731-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hw4aEWjpAXFNO5XK_DsB-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="300" y="550" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hw4aEWjpAXFNO5XK_DsB-18" value="Menampilkan data &lt;i&gt;list role&lt;/i&gt;&amp;nbsp;milik &lt;i&gt;user&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="150" y="630" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="hw4aEWjpAXFNO5XK_DsB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-22" target="60571a20871a0731-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hw4aEWjpAXFNO5XK_DsB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="hw4aEWjpAXFNO5XK_DsB-22" target="9redM43dmEc5Fs1zs8RA-4">
           <mxGeometry relative="1" as="geometry">
