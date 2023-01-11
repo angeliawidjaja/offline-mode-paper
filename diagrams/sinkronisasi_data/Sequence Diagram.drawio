@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T00:33:44.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nWDzy4ixgJCmDhsL92bH" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T00:38:10.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="GJFKdPkm7od-hGJpV9Db" version="20.8.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2450" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2655" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="HomeView" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="59" width="100" height="2461" as="geometry" />
+          <mxGeometry x="-760" y="59" width="100" height="2861" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="84" width="10" height="46" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="45" y="221" width="10" height="59" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="HomeUtilities" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-535" y="59" width="100" height="2461" as="geometry" />
+          <mxGeometry x="-535" y="59" width="100" height="2861" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="110" width="10" height="40" as="geometry" />
@@ -60,13 +60,13 @@
           <mxGeometry y="-20" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-1" value="HttpService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="59" width="100" height="2461" as="geometry" />
+          <mxGeometry x="-310" y="59" width="100" height="2861" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="VgFMn7d585Ha0XAmIZsE-1" vertex="1">
           <mxGeometry x="45" y="131" width="10" height="79" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-3" value="BINUSMAYA 7 API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-95" y="59" width="120" height="2461" as="geometry" />
+          <mxGeometry x="-95" y="59" width="120" height="2861" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="VgFMn7d585Ha0XAmIZsE-3" vertex="1">
           <mxGeometry x="55" y="150" width="10" height="40" as="geometry" />
@@ -105,10 +105,10 @@
           <mxGeometry x="-450" y="350" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-855" y="100" width="10" height="2420" as="geometry" />
+          <mxGeometry x="-855" y="100" width="10" height="2820" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-23" value="&lt;b&gt;alt&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=30;height=20;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-890" y="390" width="900" height="2120" as="geometry" />
+          <mxGeometry x="-890" y="390" width="900" height="2520" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;[Acad is not permitted to access Offline Mode]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-840" y="390" width="110" height="35.5" as="geometry" />
@@ -770,7 +770,51 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J6cY7bMmOS7TBVYnpm_l-101" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="2259" width="10" height="80" as="geometry" />
+          <mxGeometry x="-490" y="2259" width="10" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-102" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;labelBorderColor=none;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
+          <mxGeometry x="-1" y="41" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-479.66999999999985" y="2277.5" as="sourcePoint" />
+            <mxPoint x="-479.66999999999985" y="2297.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-459.66999999999996" y="2287.5" />
+            </Array>
+            <mxPoint x="-40" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-103" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;86:&amp;nbsp;synchForumThread-List(classId, sessionIds, role)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-454.66999999999996" y="2277" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-104" value="87: getForumThread-&#xa;List(classId, sessionIds, role)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;entryX=-0.024;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-479.6733333333332" y="2340.5" as="sourcePoint" />
+            <mxPoint x="-265.2800000000002" y="2340.6200000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-105" value="89: return list forum threads" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=1.103;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-253.64000000000033" y="2388.766" as="targetPoint" />
+            <mxPoint x="-39.67000000000007" y="2390.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-106" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-264.67" y="2340" width="10" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-107" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-39.67" y="2359" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-108" value="88: getForumThread-&#xa;List(classId, sessionIds, role)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;entryX=-0.024;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-254.67333333333318" y="2358.85" as="sourcePoint" />
+            <mxPoint x="-40.2800000000002" y="2359.0599999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6cY7bMmOS7TBVYnpm_l-109" value="90: save &amp; return list forum threads" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=1.073;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0198" y="1" relative="1" as="geometry">
+            <mxPoint x="-480.24000000000024" y="2399.75" as="targetPoint" />
+            <mxPoint x="-266" y="2398.9999999999995" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
