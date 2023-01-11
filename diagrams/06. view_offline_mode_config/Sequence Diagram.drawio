@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T14:16:54.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ij3vMvG7neC3A3WE7hyD" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T14:37:49.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eGUu7jmJL3UlN5-ITkou" version="20.8.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2822" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3058" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VgFMn7d585Ha0XAmIZsE-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-1635" y="121" width="10" height="900" as="geometry" />
+          <mxGeometry x="-1635" y="121" width="10" height="1079" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-23" value="&lt;b&gt;alt&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=30;height=20;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1670" y="255" width="990" height="165" as="geometry" />
+          <mxGeometry x="-1670" y="255" width="1190" height="165" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="SettingView" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-1460" y="80" width="100" height="941" as="geometry" />
+          <mxGeometry x="-1460" y="80" width="100" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="UtilityHelper" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-1040" y="80" width="100" height="941" as="geometry" />
+          <mxGeometry x="-1040" y="80" width="100" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-7" value="3: isOfflineModeFeatureAvailable()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;entryX=-0.024;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.178;exitY=0.813;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3nuBFxr9cyL0pnOWT2aG-5" edge="1" source="3nuBFxr9cyL0pnOWT2aG-2">
           <mxGeometry relative="1" as="geometry">
@@ -47,7 +47,7 @@
           <mxGeometry x="-1415" y="274" width="10" height="58" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-49" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=10;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-1669" y="339" width="989" height="8" as="geometry" />
+          <mxGeometry x="-1669" y="341" width="1189" height="8" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;[Acad is permitted to access Offline Mode]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1624" y="343" width="110" height="35.5" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="-1415" y="362" width="10" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eCdpHvhe5fwS4jkzBV9C-2" value="LocalDatabase" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-815" y="80" width="100" height="941" as="geometry" />
+          <mxGeometry x="-815" y="80" width="100" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="eCdpHvhe5fwS4jkzBV9C-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="217" width="10" height="29" as="geometry" />
@@ -98,13 +98,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFGstGtkIx78UECEyDi8-6" value="OfflineMode-&#xa;ConfigView" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="80" width="100" height="941" as="geometry" />
+          <mxGeometry x="-1260" y="80" width="100" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="rFGstGtkIx78UECEyDi8-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rFGstGtkIx78UECEyDi8-6">
-          <mxGeometry x="45" y="369" width="10" height="61" as="geometry" />
+          <mxGeometry x="45" y="369" width="10" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="rFGstGtkIx78UECEyDi8-27" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rFGstGtkIx78UECEyDi8-6">
-          <mxGeometry x="45" y="580" width="10" height="58" as="geometry" />
+        <mxCell id="rFGstGtkIx78UECEyDi8-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rFGstGtkIx78UECEyDi8-6">
+          <mxGeometry x="45" y="436" width="10" height="224" as="geometry" />
         </mxCell>
         <mxCell id="VgFMn7d585Ha0XAmIZsE-26" value="6: return false" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=0.955;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="VgFMn7d585Ha0XAmIZsE-25">
           <mxGeometry relative="1" as="geometry">
@@ -148,32 +148,108 @@
             <mxPoint x="-770.46" y="519.2199999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFGstGtkIx78UECEyDi8-16" value="&lt;b&gt;alt&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=30;height=20;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1669" y="537" width="990" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="rFGstGtkIx78UECEyDi8-17" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;[Offline Mode Config Data == null]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1624" y="540" width="110" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="rFGstGtkIx78UECEyDi8-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-1215" y="559" width="10" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="rFGstGtkIx78UECEyDi8-21" value="16: show popup auto download flow info" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1.046;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.051;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="rFGstGtkIx78UECEyDi8-18">
+        <mxCell id="rFGstGtkIx78UECEyDi8-21" value="17: show popup auto download flow info" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1623.9999999999998" y="606.5" as="targetPoint" />
-            <mxPoint x="-1415.05" y="606.6600000000001" as="sourcePoint" />
+            <mxPoint x="-1625" y="610" as="targetPoint" />
+            <mxPoint x="-1220" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFGstGtkIx78UECEyDi8-24" value="15: return true" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=0.955;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rFGstGtkIx78UECEyDi8-18">
+        <mxCell id="rFGstGtkIx78UECEyDi8-24" value="16: return true" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.034;exitY=0.877;shadow=0;strokeWidth=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rFGstGtkIx78UECEyDi8-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1209" y="557.55" as="targetPoint" />
-            <mxPoint x="-994.46" y="557.77" as="sourcePoint" />
+            <mxPoint x="-1205" y="558.86" as="targetPoint" />
+            <mxPoint x="-999.46" y="556.63" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFGstGtkIx78UECEyDi8-26" value="17: fetchOfflineModeConfigDataFromAPI()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;exitX=1.021;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.047;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1625" y="660" as="sourcePoint" />
-            <mxPoint x="-1216.68" y="660.8779999999999" as="targetPoint" />
+        <mxCell id="rFGstGtkIx78UECEyDi8-28" value="18: isOfflineModeConfig-&#xa;DataNull(offlineModeConfigData)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;exitX=1.021;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rFGstGtkIx78UECEyDi8-29">
+          <mxGeometry x="0.0043" relative="1" as="geometry">
+            <mxPoint x="-1205" y="720.19" as="sourcePoint" />
+            <mxPoint x="-1000" y="720.19" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-29" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="720.19" width="10" height="189.91" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-30" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="736.19" width="10" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-31" value="19: checkOfflineModeConfig-&#xa;DataNull(offlineModeConfigData)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;entryX=-0.024;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-985.0033333333331" y="736.19" as="sourcePoint" />
+            <mxPoint x="-770.6099999999997" y="736.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-32" value="20: return boolean" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=1.046;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-985" y="759.19" as="targetPoint" />
+            <mxPoint x="-770.46" y="759.4099999999996" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-33" value="&lt;b&gt;alt&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=30;height=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1669" y="777.19" width="1189" height="242.91" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-34" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;[Offline Mode Config Data == null]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1624" y="780.19" width="110" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-35" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-1215" y="799.19" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-37" value="21: return true" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=0.955;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rFGstGtkIx78UECEyDi8-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1209" y="797.74" as="targetPoint" />
+            <mxPoint x="-994.46" y="797.96" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-1668" y="870.1" width="1188" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-39" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;[Offline Mode Config Data != null]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1624" y="878.1" width="110" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-40" value="21: return false" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;entryX=0.955;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1204.9999999999998" y="899.3440000000002" as="targetPoint" />
+            <mxPoint x="-994.01" y="897.9400000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-41" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-1215" y="900.1" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-42" value="xx: isConfigLastUpdatedDateDiffer()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;exitX=1.021;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1205" y="940.3200000000003" as="sourcePoint" />
+            <mxPoint x="-995" y="940.10009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-44" value="18: fetchOfflineModeConfigDataFromAPI()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;exitX=1.021;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rFGstGtkIx78UECEyDi8-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1205" y="650" as="sourcePoint" />
+            <mxPoint x="-570" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-45" value="15: return boolean" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1.046;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.03;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1205.0000000000002" y="529" as="targetPoint" />
+            <mxPoint x="-995.3" y="528.9100000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-16" value="&lt;b&gt;alt&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;width=30;height=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1669" y="540" width="1189" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-47" value="19: return list offline mode config data" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=1.046;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rFGstGtkIx78UECEyDi8-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1205.0000000000002" y="680.0000000000001" as="targetPoint" />
+            <mxPoint x="-990.46" y="680.2199999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-43" value="BINUSMAYA API" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="80" width="100" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="rFGstGtkIx78UECEyDi8-46" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rFGstGtkIx78UECEyDi8-43">
+          <mxGeometry x="45" y="570" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
